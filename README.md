@@ -190,7 +190,6 @@ Demo/
 ├── CMakeLists.txt
 ├── main.cpp
 ├── README.md
-├── README_BUILD.md
 ├── LICENSE.md
 └── resources.qrc
 ```
